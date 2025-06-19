@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Bruno Augusto!
+### 👨‍💻 Bruno Augusto!
 
 - 🔭 I’m currently working on: learning advanced programming concepts
 - 🌱 I’m currently learning: I’m studying Computer Science
