@@ -1,7 +1,8 @@
 ### 👨‍💻 Bruno Augusto!
 
-- 🔭 I’m currently working on: learning advanced programming concepts
-- 🌱 I’m currently learning: I’m studying Computer Science
+- ☄ I’m currently working on: learning advanced programming concepts
+
+##
 
  <div>
   <a href="https://github.com/bsouzadev">
