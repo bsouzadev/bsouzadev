@@ -9,7 +9,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 10 px;" 
+     
     src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
