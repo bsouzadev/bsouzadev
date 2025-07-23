@@ -1,28 +1,18 @@
 ### 👨‍💻 Bruno Augusto!
 
 - ☄ I’m currently working on: learning advanced programming concepts
-
 ##
+### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-     
-    src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsouzadev&layout=compact&langs_count=16&theme=dark"/>
+</div>
+    
+<br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsouzadev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
