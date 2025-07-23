@@ -4,11 +4,7 @@
 
 ##
 
- <div>
-  <a href="https://github.com/bsouzadev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsouzadev&layout=compact&langs_count=16&theme=dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <div style="display: inline_block"><br>
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
