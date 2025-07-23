@@ -4,10 +4,11 @@
 
 ##
 
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="80" 
+    height="200" 
     style="padding-right: 10 px;" 
     src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -15,10 +16,11 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="80" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsouzadev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  
+
+</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
