@@ -6,7 +6,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="80" 
     style="padding-right: 10 px;" 
     src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -14,7 +14,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="80" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsouzadev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
