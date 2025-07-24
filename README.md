@@ -2,7 +2,7 @@
 
 - ☄ I’m currently working on: learning advanced programming concepts
 ##
-### 📊 Estatísticas
+### 🖱 Estatísticas
 
  <div>
   <a href="https://github.com/rafaballerini">
