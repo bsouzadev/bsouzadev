@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsouzadev&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bsouzadev&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsouzadev&layout=compact&langs_count=16&theme=apprentice"/>
 </div>
     
 <br/>
