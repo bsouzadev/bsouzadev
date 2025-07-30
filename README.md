@@ -1,6 +1,6 @@
 ### 👨‍💻 Bruno Augusto!
 
-- ☄ I’m currently working on: learning advanced programming concepts
+- 💡 I’m currently focused on improving my problem-solving and coding skills.
 ##
 ### 🖱 Estatísticas
 
